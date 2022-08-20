@@ -19,3 +19,6 @@
 ### [3.1 克鲁斯卡尔 Kruscal.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Kruscal.cpp) ###
 ### [3.2 普里姆 Prim1.0.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Prim1.0.cpp) ###
 ### [3.3 普里姆（二叉堆优化） Prim2.0.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Prim2.0.cpp) ###
+## 4 欧拉路 ##
+### [4.1 欧拉路径 EulerPath.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/EulerPath.cpp) ###
+### [4.2 欧拉回路 EulerLoop.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/EulerLoop.cpp) ###
