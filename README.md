@@ -15,4 +15,7 @@
 ### [2.6 弗洛伊德 Floyd.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Floyd.cpp) ###
 ### 传递闭包 ###
 ### [2.7 沃舍尔 Warshell.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Warshell.cpp) ###
-
+## 3 最小生成树 ##
+### [3.1 克鲁斯卡尔 Kruscal.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Kruscal.cpp) ###
+### [3.2 普里姆 Prim1.0.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Prim1.0.cpp) ###
+### [3.3 普里姆（二叉堆优化） Prim2.0.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Prim2.0.cpp) ###
