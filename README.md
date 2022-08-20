@@ -13,3 +13,6 @@
 ### [2.5 贝尔曼-福特（二叉堆优化）（SPFA+priority_queue） SPFA2.0.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/SPFA2.0.cpp) ###
 ### 多源 ###
 ### [2.6 弗洛伊德 Floyd.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Floyd.cpp) ###
+### 传递闭包 ###
+### [2.7 沃舍尔 Warshell.cpp](https://github.com/GuChengGordon/GraphTheory/blob/main/Warshell.cpp) ###
+
