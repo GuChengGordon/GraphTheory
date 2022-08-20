@@ -48,6 +48,6 @@ int main()
 		cout << s.top().u << "->" << s.top().v << endl;
 		s.pop();
 	}
-	// system("pause");
+	system("pause");
 	return 0;
 }
